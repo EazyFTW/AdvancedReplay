@@ -1,6 +1,6 @@
 name: AdvancedReplay
 version: @version@
-main: com.eazyftw.advancedreplay.AdvancedReplay
+main: com.eazyftw.advancedreplay.ReplaySystem
 api-version: 1.13
 authors: [EazyFTW, Jumper251]
 description: An advanced replay plugin.
